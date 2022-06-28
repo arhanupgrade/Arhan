@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.7rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: bold;
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color:  #11999E;
+}
+
+hr
+{
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: black;
+  /* border-color: #EAF6F6; */
+  width: 5%;
+}
+
+a
+{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color:  #11999E;
+  margin: 10px 20px;
+}
+
+a:hover
+{
+  color: #EAF6F6;
+}
+
+.topcontainer {
+  position: relative;
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row
+{
+  width: 50%;
+  margin:100px auto 100px auto;
+  /* margin-right: auto; */
+  text-align: left;
+  line-height: 2;
+}
+
+.profile
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.comp
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.crick
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.prof
+{
+  width: 30%;
+  border-radius: 150px;
+  /* border-color: black; */
+  border: solid 0.1px;
+
+}
+
+.profdesc
+{
+  padding-left: 120px;
+  padding-right: 120px;
+}
+
+
+.pskill
+{
+  text-align: justify;
+}
+
+
+.contme
+{
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+  height: 80px;
+  padding-top: 30px;
+}
+
+.copyright
+{
+  color: #EAF6F6;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 0.75rem;
+}
+
+
+.mailto
+{
+  background-color: #66BFBF;
+  font-size: 15px;
+  border: none;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 50px auto 50px auto;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+
+.btn
+{
+  color: #EAF6F6;
+  text-decoration: none;
+}
