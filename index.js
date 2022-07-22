@@ -12,7 +12,7 @@ function rollDice()
   }
   else if(randomNumber1 < randomNumber2)
   {
-    document.querySelector("h1").innerHTML="Arhan let you Win!!";
+    document.querySelector("h1").innerHTML="Arhan let Shriya Win!!";
   }
   else
   {
